@@ -21,3 +21,6 @@ Notification & Alerts Service
 
 Analytics, Reporting, & BI Module
 
+ Cloud Core Platform
+
+ Application / User Layer
